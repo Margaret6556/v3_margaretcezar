@@ -1,5 +1,4 @@
 import React from "react";
-
 import "./About.css";
 
 export default function About() {
@@ -22,13 +21,15 @@ export default function About() {
           frameworks. As a tech startup founder, I've led cross-functional teams
           to transform ideas into
           <span className="highlight">
-            {" "}
             cutting-edge pixel-perfect, impactful products.
           </span>
-          My diverse experience spans Marketing, Product & Engineering,
-          Accounting, and Legal domains. A proactive and highly organized
-          generalist, I excel at improving processes, collaborating with
-          A-teams, and tackling challenging problems. My vision is to create
+          My diverse experience spans{" "}
+          <span className="highlight">
+            Marketing, Product & Engineering, Accounting, and Legal domains.
+          </span>{" "}
+          A proactive and highly organized generalist, I excel at improving
+          processes, collaborating with A-teams, and tackling challenging
+          problems. My vision is to create
           <span className="accent">
             {" "}
             meaningful startups that make a positive impact.
